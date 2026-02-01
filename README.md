@@ -1,4 +1,4 @@
-# Lab 5: Triangle Drawing System with Affine Transformations
+# Triangle Drawing System with Affine Transformations
 
 ## Purpose
 
